@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Reservacion de Vuelos</string>
+    <string name="usuario">Nombre</string>
+    <string name="password">Password</string>
+    <string name="entrar">Aceptar</string>
+
+
+    <string name="pasajero">Nombre del Pasajero</string>
+    <string name="telefono">Telefono del Pasajero</string>
+    <string name="precio">Precio del Boleto</string>
+    <string name="codigo">Codigo de Vuelo</string>
+    <string name="vuelo">Numero de Vuelo</string>
+    <string name="asiento">Numero de Asiento</string>
+
+    <string name="pago">Forma de Pago</string>
+    <string name="origen">Origen</string>
+    <string name="destino">Destino</string>
+
+    <string name="agregar">Agregar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="llamar">Llamar</string>
+    <string name="descripcion">Air Travel Tourism es app  que permite registrar vuelos, con autenticacion, listar los vuelos registrados, asi como tambien muestra el detalle del Registro de Vuelos y permite llamar al contacto del Vuelo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

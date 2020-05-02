@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="forma_pago">
+        <item>Efectivo</item>
+        <item>Tarjetas de Credito</item>
+        <item>Paypal</item>
+    </string-array>
+
+    <string-array name="origenes">
+        <item>Ciudad de Mexico</item>
+        <item>Cancun</item>
+        <item>Guadalajara</item>
+        <item>Leon</item>
+        <item>Nueva York</item>
+        <item>Madrid</item>
+        <item>Francia</item>
+        <item>Las Vegas</item>
+        <item>Los Angeles</item>
+        <item>Nueva Zelanda</item>
+    </string-array>>
+
+
+    <string-array name="destinos">
+        <item>Ciudad de Mexico</item>
+        <item>Cancun</item>
+        <item>Guadalajara</item>
+        <item>Leon</item>
+        <item>Nueva York</item>
+        <item>Madrid</item>
+        <item>Francia</item>
+        <item>Las Vegas</item>
+        <item>Los Angeles</item>
+        <item>Nueva Zelanda</item>
+    </string-array>>
+
+
+</resources>
